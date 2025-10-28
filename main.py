@@ -254,7 +254,7 @@ class RadialDistortionCalibrator:
 
 if __name__ == "__main__":
     calibrator = RadialDistortionCalibrator(
-        image_path="/Computer_Vision/input_images/image-005.jpg",
+        image_path=input("Enter image path: "),
         grid_size=(9, 6)
     )
     
