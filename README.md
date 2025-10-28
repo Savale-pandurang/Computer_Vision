@@ -92,3 +92,6 @@ pip install -r requirements.txt
 ```
 python3 main.py
 ```
+#### give input_path 
+```
+input_images/image-005.jpg
